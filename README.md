@@ -1,6 +1,6 @@
-# Web Scraping de Anexos da ANS
+# Web Scraping 
 
-Esse projeto foi feito pra automatizar uma tarefa simples: baixar os PDFs dos Anexos I e II do site da ANS e juntar tudo num arquivo `.zip`. Nada de clicar manualmente em cada link — o código faz isso pra você.
+Esse projeto foi feito pra automatizar uma tarefa simples: baixar os PDFs dos Anexos I e II do site da ANS e juntar tudo num arquivo `.zip`. Nada de clicar manualmente em cada link.
 
 ## O que ele faz
 
